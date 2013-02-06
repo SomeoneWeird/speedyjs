@@ -1,2 +1,4 @@
 speedyjs
 ========
+
+Write JS faster...?
