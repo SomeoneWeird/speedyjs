@@ -1,0 +1,19 @@
+{
+  "name": "speedyjs",
+  "version": "0.0.1",
+  "description": "Fast JS?",
+  "main": "lib/index.js",
+  "dependencies": {
+    "async": "~0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SomeoneWeird/speedyjs.git"
+  },
+  "author": "Adam Brady",
+  "license": "MIT"
+}
